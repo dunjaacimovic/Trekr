@@ -4,18 +4,19 @@ Link to stream’s replay: https://youtu.be/aP-SQXTtWhY
 
 This project was built using Xcode 12.3, but should work fine in any Xcode from 12.0 onwards.
 
-https://user-images.githubusercontent.com/40772171/107685875-d346c900-6ca4-11eb-872a-6632e41bc040.gif
+## Table of Contents
+- [Locations](#Locations)
 
-## Custom camera
+
+## Locations
 
 <img src="https://user-images.githubusercontent.com/40772171/107685875-d346c900-6ca4-11eb-872a-6632e41bc040.gif" align="left" height=500px/>
 
-`Custom camera view` with a fluid openning animation.
+`Locations screen`
 
-Animation is done by masking the view using navigation controller transition.
-
-When openning a camera a choice to select from Photo library is available.
-
+<br />
+<br />
+<br />
 <br />
 <br />
 <br />
